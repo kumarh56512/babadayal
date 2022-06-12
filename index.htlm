@@ -1,4 +1,13 @@
-<div class="jumbotron">
-    <h1>.NET 💜 Azure</h1>
-    <p class="lead">Example .welcome to india .</p>
-</div>
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$color = "red";
+echo "My car is " . $color . "<br>";
+echo "My house is " . $COLOR . "<br>";
+echo "My boat is " . $coLOR . "<br>";
+?>
+
+</body>
+</html>
